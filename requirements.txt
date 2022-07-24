@@ -5,3 +5,4 @@ Pillow==9.2.0
 chatbotAI==0.3.1
 tinderbotz==1.6
 instagrapi==1.16.27
+deepl==1.9.0
